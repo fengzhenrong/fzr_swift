@@ -1,0 +1,6 @@
+framework module Pods_fzr_swift_LBU {
+  umbrella header "Pods-fzr_swift_LBU-umbrella.h"
+
+  export *
+  module * { export * }
+}
